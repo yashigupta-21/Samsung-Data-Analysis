@@ -1,22 +1,26 @@
 # Samsung-Data-Analysis
 This project presents an end-to-end Supply Chain Analytics Dashboard for Samsung, built using Power BI. It provides actionable insights across supplier performance, inventory management, shipment tracking, and delivery efficiency. 
 
-🚀 Key Features 📈 Revenue & Profit Analysis Gross Revenue: 186.86M Total Revenue: 176.95M Profit: 48.56M Profit Margin: 27.44%
+Dashboard Overview: Supply Chain and Revenue Performance Analysis
 
-📦 Supply Chain Insights Supplier performance by average lead time Identification of efficient and delayed suppliers 🏭 Inventory Management Total Inventory Value: 160K Product-wise stock distribution Highlights top inventory-heavy products
+This dashboard provides an integrated view of supply chain operations, financial performance, and logistics efficiency, enabling data-driven decision-making across business functions.
 
-🚚 Shipment Tracking Shipment Quantity: 3M Delay analysis by carriers (e.g., Maersk, DHL, FedEx) Helps identify logistics bottlenecks
+Financial Performance
 
-🏠 Delivery Performance Total Deliveries: 187K Perfect Order Rate: 75.29% 🛒 Revenue by Platform Comparison across platforms like Amazon, Flipkart, etc.
+The company has generated a gross revenue of 186.86M, with total realized revenue at 176.95M and a profit of 48.56M. A profit margin of 27.44% indicates strong overall profitability, supported by relatively balanced revenue contributions across multiple sales platforms.
 
-🧠 Insights Derived Certain suppliers show consistently higher lead times → scope for optimization A few logistics carriers contribute to most delays → improvement opportunity Inventory is heavily concentrated in selected Galaxy products Revenue distribution is fairly balanced across multiple platforms 🛠️ Tools & Technologies 📊 Power BI (Data Visualization) 📂 Excel / CSV (Data Source) 📈 DAX (Data Analysis Expressions)
+Supply Chain Performance
 
-🎯 Business Use Case
+Supplier analysis highlights variations in average lead times, with certain suppliers consistently underperforming. This indicates potential inefficiencies in procurement and opportunities for supplier optimization or renegotiation.
 
-This dashboard can be used by:
+Inventory Insights
 
-Supply Chain Managers Operations Teams Business Analysts
+The total inventory value stands at 160K, with a significant concentration in selected Galaxy product lines. This suggests a risk of overstocking in specific categories and highlights the need for better demand forecasting and inventory balancing.
 
-To: Improve supplier efficiency
+Logistics and Shipment Analysis
 
-Reduce shipment delays Optimize inventory levels Maximize profitability
+Shipment volume is high at 3M units, but delay analysis shows that a small group of carriers accounts for the majority of delays. This concentration points to clear opportunities for improving logistics performance through carrier evaluation and process optimization.
+
+Delivery Efficiency
+
+Out of 187K total deliveries, the perfect order rate is 75.29%, indicating room for improvement in order accuracy, timeliness, and fulfillment quality.
