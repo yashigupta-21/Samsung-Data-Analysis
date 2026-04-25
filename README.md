@@ -24,3 +24,6 @@ Shipment volume is high at 3M units, but delay analysis shows that a small group
 Delivery Efficiency
 
 Out of 187K total deliveries, the perfect order rate is 75.29%, indicating room for improvement in order accuracy, timeliness, and fulfillment quality.
+
+
+<img width="1461" height="790" alt="image" src="https://github.com/user-attachments/assets/50509c12-8bcc-4158-ac42-bc31607739ec" />
